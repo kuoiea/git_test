@@ -12,5 +12,9 @@ int main(void){
 	
 	printf("I like you");
 	
+	float t = 1.24;
+	
+	printf("%d/%d/",%num,%t)
+	
 	
 }
