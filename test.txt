@@ -2,7 +2,14 @@
 int main(void){
     println("hello world");
 	
+<<<<<<< Updated upstream
 	char user_input;
 	
 	user_input = input(">>>>");
+=======
+	int num;
+	
+	num = input(">>>>");
+	
+>>>>>>> Stashed changes
 }
